@@ -7,6 +7,16 @@ Users can create, edit, and delete their blog posts. The website also features a
 The backend is powered by _SQLAlchemy_ for data storage, and _Flask-Gravatar_ to display user avatars. 
 While the frontend template was downloaded, the focus was on the Python backend, data models, and user authentication.
 
+#### Database Details
+
+To use the default provided database, here are the details:
+
+| Email            | Password       |
+|------------------|----------------|
+| admin@admin.com | admin@admin.com |
+| user1@user1.com | user1@user1.com |
+| user2@user.com  | user2@user.com  |
+
 
 #### Future Improvements for the Blog Website:
 
